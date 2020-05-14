@@ -1,5 +1,3 @@
-$status='Thank You Mario! But Our Princess Is In Another Castle!'
-
 def mario
   puts status
   phrase = "It's-a me, Mario!"
